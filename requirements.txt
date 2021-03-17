@@ -67,6 +67,7 @@ six==1.15.0
 sklearn==0.0
 smmap==3.0.5
 streamlit==0.78.0
+seaborn==0.9.0
 terminado==0.9.3
 testpath==0.4.4
 threadpoolctl==2.1.0
